@@ -12,7 +12,7 @@ I    22225
 to   16339
 ```
 
-2. `topLongestWords` should return 3 sets of the longest words. The result must be a map where key is the lengh of the word, and the value is a set of words of the given lengh. Only top 3 entries should be returned. Expected result:
+2. `longestWords` should return 3 sets of the longest words. The result must be a map where key is the lengh of the word, and the value is a set of words of the given lengh. Only top 3 entries should be returned. Expected result:
 
 ```
 27 [honorificabilitudinitatibus]
